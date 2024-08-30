@@ -1,0 +1,28 @@
+{
+    "name": "futureplc/run-php",
+    "description": "A PHP command to run PHP.",
+    "bin": ["run-php"],
+    "keywords": [
+        "futureplc",
+        "run-php"
+    ],
+    "homepage": "https://github.com/futureplc/run-php",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Future PLC",
+            "email": "webdev@futurenet.com",
+            "role": "Developer"
+        },
+        {
+            "name": "Liam Hammett",
+            "email": "liam@liamhammett.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": "^8"
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
