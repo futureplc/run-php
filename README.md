@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> "Run PHP" is superceded by [cpx exec](https://github.com/imliam/cpx)
+
 # Run PHP
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/futureplc/run-php.svg?style=flat-square)](https://packagist.org/packages/futureplc/run-php)
